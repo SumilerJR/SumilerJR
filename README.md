@@ -1,10 +1,10 @@
 ### Hi there 👋
 - 👋 Hi, I'm Sumiller, or you can call me 九日.
-- 👀 I'm interested in front-end development
+- 👀 I'm interested in front-end development. Sophomore software engineering student.
 - 🌱 I am currently learning Vue
 
 ### Contact me
-- Blog:http://sumiler.com
+- Blog: [微风忆夏](http://sumiler.com)
 
 
 <!---

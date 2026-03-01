@@ -118,10 +118,90 @@
 ## 本周编码统计（WakaTime）
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C098%20hrs%2036%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.12%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 682.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 28 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 3 Public Repositories 
+ > 
+> 🔑 30 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
 ```text
-暂未生成 WakaTime 数据。
-请在仓库 Secrets 中添加 WAKATIME_API_KEY 后，运行 Waka Readme workflow。
+🌞 Morning                177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+🌆 Daytime                546 commits         █████████░░░░░░░░░░░░░░░░   37.14 % 
+🌃 Evening                688 commits         ████████████░░░░░░░░░░░░░   46.80 % 
+🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 ```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Tuesday                  283 commits         █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Wednesday                254 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Thursday                 183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Friday                   165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Saturday                 260 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Sunday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               15 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   38.98 % 
+Markdown                 6 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+JavaScript               5 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Python                   4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+JSON                     3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+
+🔥 Editors: 
+VS Code                  38 hrs 52 mins      █████████████████████████   99.26 % 
+Trae                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+
+🐱‍💻 Projects: 
+pc-script-nodejs         13 hrs 31 mins      █████████░░░░░░░░░░░░░░░░   34.55 % 
+auto-robot               9 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+robot-nodejs             6 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+astrbot_plugin_bangumi   3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+crawler                  1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+
+💻 Operating System: 
+Windows                  39 hrs 10 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Vue** 
+
+```text
+Vue                      9 repos             ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/SumilerJR/SumilerJR/main/assets/bar_graph.png)
+
+
+ Last Updated on 01/03/2026 02:36:49 UTC
 <!--END_SECTION:waka-->
 
 ## 最近博客更新

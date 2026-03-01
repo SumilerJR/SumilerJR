@@ -1,0 +1,18 @@
+name: Blog Post Sync
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 同步博客到 README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: BLOG-POST-LIST
+          max_post_count: 6
+          feed_list: "https://sumiler.com/api/rss.xml"

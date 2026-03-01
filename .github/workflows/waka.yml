@@ -1,0 +1,23 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 更新 WakaTime 统计到 README
+        uses: anmol098/waka-readme-stats@master
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TIMEZONE: "True"
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"

@@ -13,7 +13,9 @@ jobs:
       - name: 更新 WakaTime 统计到 README
         uses: anmol098/waka-readme-stats@master
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # 注意：这里必须使用个人访问令牌（PAT），并保存为仓库机密 GH_TOKEN。
+          # 建议使用 classic token，最少包含 repo 和 user 权限。
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TIMEZONE: "True"
           SHOW_OS: "True"

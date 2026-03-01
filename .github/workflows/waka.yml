@@ -17,9 +17,11 @@ jobs:
           # 建议使用 classic token，最少包含 repo 和 user 权限。
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          LOCALE: "zh"
+          COMMIT_MESSAGE: "coding"
           SHOW_TIMEZONE: "True"
           SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
+          SHOW_PROJECTS: "False"
           SHOW_LANGUAGE: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_TOTAL_CODE_TIME: "True"

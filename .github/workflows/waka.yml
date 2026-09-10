@@ -2,6 +2,9 @@ name: Waka Readme
 
 on:
   workflow_dispatch:
+  schedule:
+    # 每天 UTC 00:30（北京时间 08:30）更新一次
+    - cron: "30 0 * * *"
 
 permissions:
   contents: write

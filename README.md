@@ -10,27 +10,28 @@
 <h1 align="center">你好，我是九日（Sumiler） 👋</h1>
 
 <p align="center">
-  软件工程专业，当社畜中，持续构建前端、桌面端与自动化相关项目。
+  软件工程专业，汽车行业做数据采集。持续构建前端、桌面端、爬虫自动化和 AI 相关项目。
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&center=true&vCenter=true&width=760&lines=Frontend+Engineering+Explorer;Electron+Desktop+Developer;Automation+%26+Crawler+Builder;Keep+Building+Every+Day" alt="打字机动态标语" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&center=true&vCenter=true&width=760&lines=Frontend+Engineering;Desktop+%26+Automation;Python+Crawler+Builder;AI+Application+Practice" alt="打字机动态标语" />
 </p>
 
-## About Me
+## 关于我
 
 - 👀 关注方向：前端工程化、桌面应用、爬虫自动化、AI 应用落地
-- 🌱 当前重点：Vue 3 / TypeScript / Electron / Playwright / NestJS
+- 🌱 当前重点：Vue 3 / TypeScript / NestJS / Electron / Playwright / Python / Scrapy
+- 🛠️ 日常工具：Cursor / Claude Code / Codex，MCP 打通浏览器、数据库、API
 - 🧩 项目习惯：从原型验证到工程化迭代，重视可维护性和可复用性
-- 📁 数据来源：以下汇总基于 `D:\Projects` 本地项目清单整理（含技术栈提取与项目归类）
 
-#### Platforms
+#### 平台
+[![](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/)
 [![](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows)
 [![](https://img.shields.io/badge/Node.js-20+-43853D?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 
-#### Languages & Frameworks
+#### 语言与框架
 [![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![](https://img.shields.io/badge/Vue-3.x-42B883?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
@@ -40,41 +41,39 @@
 [![](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)](https://playwright.dev/)
 [![](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)](https://pptr.dev/)
 [![](https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white)](https://scrapy.org/)
+[![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
-## 项目技术画像
+## 项目方向
 
-- 项目总量：`34`（不含当前 GitHub 主页仓库）
-- 高频技术：`TypeScript(13)`、`Python(13)`、`Node.js(12)`、`Puppeteer(9)`、`Axios(8)`、`Docker(7)`、`Playwright(6)`、`Electron(6)`、`Scrapy(4)`、`NestJS(4)`
-
-## 项目方向汇总
-
-- 前端应用与可视化：Vue 2/3、React、TypeScript、Vite、Pinia、Vue Router、Element Plus、Tailwind CSS
-- 桌面端开发：Electron、Node.js、Playwright
-- 后端与接口服务：NestJS、Express、Koa、Flask、MySQL、Redis
-- 自动化与机器人：Puppeteer、Playwright、Selenium、uiautomator2、NcatBot
-- 数据采集与爬虫：Scrapy、Requests、Puppeteer、Playwright
-- AI 与语音能力：FunASR、PyTorch、Milvus、pycryptodome
-- 工程化与部署：Docker、Turborepo、pnpm Workspace、Jest、pytest、Ruff
+- 汽车数据：Scrapy 沉淀车型库与优惠数据，并做快讯抓取、品牌社媒监控
+- 社媒自动化：NestJS + Puppeteer 做授权登录、数据采集；Electron 桌面端做登录、采集和发布
+- 指数与解析：Python 服务拉关键词指数；解析作品链接和网盘分享，回调业务系统
+- 任务中台：NestJS + Next.js 看爬虫任务和账号在线状态
+- 前端产品：Vue 3 海报设计器；独立博客（Next.js 前台 + NestJS 接口 + Vite 后台）
+- 移动端：uiautomator2 做扫码授权和采集
+- AI 工作流：Electron AI 客户端；个人 Agent 工作台（Skill / MCP / CLI）
 
 ## 技术方向矩阵
 
 | 方向 | 主要技术 | 覆盖场景 |
 |---|---|---|
-| Web 前端工程 | Vue / React / TypeScript / Vite | 覆盖后台管理、内容站点、可视化页面 |
-| 桌面客户端 | Electron / Node.js / Playwright | 覆盖 AI 客户端与自动化控制工具 |
-| 服务端开发 | NestJS / Express / Koa / Flask / MySQL | 覆盖鉴权、任务编排、业务 API |
-| 自动化测试与机器人 | Puppeteer / Playwright / Selenium / uiautomator2 | 覆盖 Web 与移动端自动化场景 |
-| 数据抓取 | Scrapy / Requests / Puppeteer | 覆盖资讯、榜单、平台内容采集 |
-| AI 应用实践 | FunASR / PyTorch / Milvus | 覆盖语音识别与向量检索相关能力 |
+| 汽车数据 | Scrapy / Python | 车型库、优惠、快讯、品牌社媒监控 |
+| 社媒自动化 | NestJS / Puppeteer / Electron / Playwright | 授权登录、数据采集、内容发布 |
+| 指数与解析 | FastAPI / Playwright / Redis | 关键词指数、作品解析、网盘下载 |
+| 任务中台 | NestJS / Next.js / MySQL | 账号掉线看板、任务状态 |
+| 前端产品 | Vue 3 / Next.js / React | 海报设计器、博客、管理后台 |
+| 移动端自动化 | uiautomator2 / Playwright | 扫码授权与采集 |
+| AI 工作流 | Electron / MCP | 桌面客户端与 Agent 配置 |
 
-## Metrics 统计信息
+## GitHub 统计
 
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics 统计信息" />
 </p>
 
-## 贪吃蛇贡献图
+## 贡献图
 
 <p align="center">
   <picture>
@@ -163,12 +162,6 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
  Last Updated on 01/03/2026 05:44:13 UTC
 <!--END_SECTION:waka-->
-
-## 最近博客更新
-
-<!-- BLOG-POST-LIST:START -->
-- 暂无博客数据，请先在 `.github/workflows/blog-post.yml` 中配置你的 RSS 地址。
-<!-- BLOG-POST-LIST:END -->
 
 ## 联系方式
 

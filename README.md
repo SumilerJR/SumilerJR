@@ -99,61 +99,11 @@
 | 移动端自动化 | uiautomator2 / Playwright | 扫码授权与采集 |
 | AI 工作流 | Electron / MCP | 桌面客户端与 Agent 配置 |
 
-## GitHub 统计
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics 统计信息" />
-</p>
-
-## 贡献图
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SumilerJR/SumilerJR/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SumilerJR/SumilerJR/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SumilerJR/SumilerJR/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
 ## 本周编码统计（WakaTime）
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-2-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-3.46%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
-
-**🐱 我的 GitHub 数据** 
-
-> 📦  使用了 692.9 kB GitHub 存储空间 
- > 
-> 🏆 501 个贡献，在 2026 年
- > 
-> 🚫 不开放招聘
- > 
-> 📜 3 个公共仓库 
- > 
-> 🔑 35 个私人仓库 
- > 
-**我是早鸟 🐤** 
-
-```text
-🌞 早晨                     294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-🌆 白天                     893 commits         ██████████░░░░░░░░░░░░░░░   41.32 % 
-🌃 傍晚                     873 commits         ██████████░░░░░░░░░░░░░░░   40.40 % 
-🌙 晚上                     101 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-```
-📅 **星期二 时的我最有干劲** 
-
-```text
-星期一                      266 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-星期二                      371 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-星期三                      336 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-星期四                      259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-星期五                      346 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-星期六                      326 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-星期日                      257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-```
-
 
 📊 **本周消耗时间** 
 
@@ -211,16 +161,25 @@ Python                   4 repos             ███░░░░░░░░�
 Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
-
-
-
-**时间线**
-
-![Lines of Code chart](https://raw.githubusercontent.com/SumilerJR/SumilerJR/main/assets/bar_graph.png)
-
-
- Last Updated on 10/09/2026 08:12:49 UTC
+Last Updated on 10/09/2026 08:12:49 UTC
 <!--END_SECTION:waka-->
+
+## GitHub 统计
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics 统计信息" />
+</p>
+
+
+## 贡献图
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SumilerJR/SumilerJR/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SumilerJR/SumilerJR/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SumilerJR/SumilerJR/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ## 联系方式
 

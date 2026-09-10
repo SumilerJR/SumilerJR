@@ -86,40 +86,40 @@
 ## 本周编码统计（WakaTime）
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C099%20hrs%2021%20mins-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-2-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-5-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-3.12%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-3.46%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
-> 📦  使用了 682.5 kB GitHub 存储空间 
+> 📦  使用了 692.9 kB GitHub 存储空间 
+ > 
+> 🏆 501 个贡献，在 2026 年
  > 
 > 🚫 不开放招聘
  > 
 > 📜 3 个公共仓库 
  > 
-> 🔑 30 个私人仓库 
+> 🔑 35 个私人仓库 
  > 
-**我是夜猫 🦉** 
+**我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-🌆 白天                     547 commits         █████████░░░░░░░░░░░░░░░░   37.19 % 
-🌃 傍晚                     688 commits         ████████████░░░░░░░░░░░░░   46.77 % 
-🌙 晚上                     59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+🌞 早晨                     294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+🌆 白天                     893 commits         ██████████░░░░░░░░░░░░░░░   41.32 % 
+🌃 傍晚                     873 commits         ██████████░░░░░░░░░░░░░░░   40.40 % 
+🌙 晚上                     101 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 ```
 📅 **星期二 时的我最有干劲** 
 
 ```text
-星期一                      153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-星期二                      283 commits         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-星期三                      254 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-星期四                      183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-星期五                      165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-星期六                      260 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-星期日                      173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+星期一                      266 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+星期二                      371 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+星期三                      336 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+星期四                      259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+星期五                      346 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+星期六                      326 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+星期日                      257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
 ```
 
 
@@ -129,28 +129,55 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-TypeScript               15 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   38.98 % 
-Markdown                 6 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-JavaScript               5 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Python                   4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-JSON                     3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Python                   6 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   32.05 % 
+Markdown                 6 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+JSON                     2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Text                     2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+JavaScript               1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 
 🔥 编辑器: 
-VS Code                  38 hrs 52 mins      █████████████████████████   99.26 % 
-Trae                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Cursor                   19 hrs 45 mins      ███████████████████████░░   91.95 % 
+Agent                    1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 操作系统: 
-Windows                  39 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 29 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 17 hrs 37 mins (81.98%)
+
+✍️ 7,906 lines written by AI, 899 lines written by hand (89.79% AI-written)
+
+🔤 4,605,064 Input Tokens, 632,684 Output Tokens
+
+💵 $23.49 Estimated AI Cost This Week
+
+🧠 96 AI Sessions, 428 AI Prompts
+
+Grok                     7,495 lines         █████████████████████████   100.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Ep                       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 89.79% of written lines came from AI
+📚 Verbose Prompter — average 5,880 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 13.49% of changed lines were hand-edited
 ```
 
 **我最常使用 Vue** 
 
 ```text
-Vue                      9 repos             ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+TypeScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
@@ -160,7 +187,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SumilerJR/SumilerJR/main/assets/bar_graph.png)
 
 
- Last Updated on 01/03/2026 05:44:13 UTC
+ Last Updated on 10/09/2026 08:12:49 UTC
 <!--END_SECTION:waka-->
 
 ## 联系方式

@@ -170,17 +170,6 @@ Last Updated on 10/09/2026 08:12:49 UTC
   <img src="./github-metrics.svg" alt="GitHub Metrics 统计信息" />
 </p>
 
-
-## 贡献图
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SumilerJR/SumilerJR/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SumilerJR/SumilerJR/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SumilerJR/SumilerJR/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
 ## 联系方式
 
 - GitHub: [@SumilerJR](https://github.com/SumilerJR)

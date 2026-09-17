@@ -103,9 +103,9 @@
 ## 本周编码统计（WakaTime）
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C006%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C012%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-695%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-699%20hrs%208%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-3.46%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
@@ -115,59 +115,59 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 9 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   35.93 % 
-Python                   6 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-TypeScript               3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-JSON                     2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Text                     1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Markdown                 11 hrs 13 mins      ██████████░░░░░░░░░░░░░░░   39.60 % 
+Python                   6 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+TypeScript               3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+JSON                     1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+JavaScript               1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 
 🔥 编辑器: 
-Cursor                   24 hrs 55 mins      ██████████████████████░░░   89.56 % 
-Agent                    2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Cursor                   24 hrs 55 mins      ██████████████████████░░░   87.94 % 
+Agent                    3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 操作系统: 
-Mac                      27 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 49 mins (82.03%)
+⏱ AI Coding Time: 23 hrs 7 mins (81.56%)
 
-✍️ 17,100 lines written by AI, 2,483 lines written by hand (87.32% AI-written)
+✍️ 18,324 lines written by AI, 2,550 lines written by hand (87.78% AI-written)
 
-🔤 1,183,411 Input Tokens, 1,086,175 Output Tokens
+🔤 1,026,033 Input Tokens, 928,797 Output Tokens
 
-💵 $23.87 Estimated AI Cost This Week
+💵 $21.04 Estimated AI Cost This Week
 
-🧠 122 AI Sessions, 522 AI Prompts
+🧠 116 AI Sessions, 574 AI Prompts
 
-Grok                     12,013 lines        █████████████████████████   99.78 % 
-Composer                 27 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Grok                     11,837 lines        █████████████████████████   99.77 % 
+Composer                 27 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 Ep                       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.32% of written lines came from AI
-📚 Verbose Prompter — average 8,584 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 13.18% of changed lines were hand-edited
+🤖 AI-Driven — 87.78% of written lines came from AI
+📚 Verbose Prompter — average 6,598 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 12.84% of changed lines were hand-edited
 ```
 
 **我最常使用 Vue** 
 
 ```text
-TypeScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+TypeScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
 
 
- Last Updated on 16/09/2026 05:02:36 UTC
+ Last Updated on 17/09/2026 05:05:11 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub 统计

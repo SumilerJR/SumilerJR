@@ -103,9 +103,9 @@
 ## 本周编码统计（WakaTime）
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C022%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C023%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-708%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-709%20hrs%2034%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-3.46%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
@@ -115,44 +115,45 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 9 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   40.62 % 
-TypeScript               4 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Python                   3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Text                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-JSON                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Markdown                 11 hrs 30 mins      ██████████░░░░░░░░░░░░░░░   40.14 % 
+TypeScript               5 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+Python                   3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Text                     1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+JSON                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 
 🔥 编辑器: 
-Cursor                   21 hrs 1 min        █████████████████████░░░░   85.89 % 
-Agent                    3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Cursor                   23 hrs 2 mins       ████████████████████░░░░░   80.34 % 
+Agent                    4 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Trae                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 操作系统: 
-Mac                      24 hrs 1 min        █████████████████████████   98.18 % 
-Windows                  26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Mac                      24 hrs 1 min        █████████████████████░░░░   83.78 % 
+Windows                  4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 27 mins (79.54%)
+⏱ AI Coding Time: 22 hrs 4 mins (76.97%)
 
-✍️ 11,407 lines written by AI, 3,200 lines written by hand (78.09% AI-written)
+✍️ 11,568 lines written by AI, 3,421 lines written by hand (77.18% AI-written)
 
-🔤 592,369 Input Tokens, 495,133 Output Tokens
+🔤 1,208,749 Input Tokens, 1,111,513 Output Tokens
 
-💵 $13.23 Estimated AI Cost This Week
+💵 $24.33 Estimated AI Cost This Week
 
-🧠 92 AI Sessions, 485 AI Prompts
+🧠 104 AI Sessions, 522 AI Prompts
 
-Grok                     7,144 lines         █████████████████████████   99.62 % 
-Composer                 27 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Grok                     7,305 lines         █████████████████████████   99.63 % 
+Composer                 27 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 Ep                       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.09% of written lines came from AI
-📚 Verbose Prompter — average 4,343 characters per prompt
+🤖 AI-Driven — 77.18% of written lines came from AI
+📚 Verbose Prompter — average 8,775 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 22.96% of changed lines were hand-edited
+🚀 High AI Trust — 24.08% of changed lines were hand-edited
 ```
 
 **我最常使用 Vue** 
@@ -168,7 +169,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 04:50:10 UTC
+ Last Updated on 20/09/2026 05:07:21 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub 统计

@@ -115,45 +115,43 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   31.29 % 
-Python                   1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-TypeScript               1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Image (png)              27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Python                   1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   37.07 % 
+Markdown                 33 mins             █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Git Config               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+JavaScript               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 
 🔥 编辑器: 
-Cursor                   4 hrs 18 mins       ███████████████░░░░░░░░░░   59.08 % 
-Agent                    1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-Trae                     1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Cursor                   2 hrs 13 mins       ███████████████████░░░░░░   75.14 % 
+Agent                    43 mins             ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 操作系统: 
-Windows                  4 hrs 48 mins       ████████████████░░░░░░░░░   65.83 % 
-Mac                      2 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.17 % 
+Mac                      2 hrs 29 mins       █████████████████████░░░░   84.10 % 
+Windows                  28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 39 mins (50.04%)
+⏱ AI Coding Time: 54 mins (30.9%)
 
-✍️ 161 lines written by AI, 277 lines written by hand (36.76% AI-written)
+✍️ 0 lines written by AI, 56 lines written by hand (0.0% AI-written)
 
-🔤 856,596 Input Tokens, 856,596 Output Tokens
+🔤 238,408 Input Tokens, 238,408 Output Tokens
 
-💵 $15.42 Estimated AI Cost This Week
+💵 $4.29 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 85 AI Prompts
+🧠 24 AI Sessions, 45 AI Prompts
 
-Grok                     161 lines           █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 36.76% of written lines came from AI
-📚 Verbose Prompter — average 40,412 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 21,193 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 67.34% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **我最常使用 Vue** 
@@ -169,7 +167,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 05:14:17 UTC
+ Last Updated on 27/09/2026 05:30:51 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub 统计

@@ -115,42 +115,42 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   37.07 % 
-Markdown                 33 mins             █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Git Config               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-JavaScript               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Python                   1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   40.67 % 
+Markdown                 33 mins             █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+Git Config               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Go                       14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+JavaScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 
 🔥 编辑器: 
-Cursor                   2 hrs 13 mins       ███████████████████░░░░░░   75.14 % 
-Agent                    43 mins             ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Cursor                   2 hrs 8 mins        █████████████████████░░░░   83.61 % 
+Agent                    24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 💻 操作系统: 
-Mac                      2 hrs 29 mins       █████████████████████░░░░   84.10 % 
-Windows                  28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Mac                      2 hrs 29 mins       ████████████████████████░   97.46 % 
+Windows                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 54 mins (30.9%)
+⏱ AI Coding Time: 33 mins (21.77%)
 
-✍️ 0 lines written by AI, 56 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 19 lines written by hand (0.0% AI-written)
 
-🔤 238,408 Input Tokens, 238,408 Output Tokens
+🔤 21,209 Input Tokens, 21,209 Output Tokens
 
-💵 $4.29 Estimated AI Cost This Week
+💵 $0.38 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 45 AI Prompts
+🧠 10 AI Sessions, 29 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 21,193 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 2,927 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -167,7 +167,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 05:30:51 UTC
+ Last Updated on 28/09/2026 05:39:50 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub 统计

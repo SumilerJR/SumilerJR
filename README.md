@@ -107,7 +107,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-713%20hrs%204%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-3.46%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-3.53%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 📊 **本周消耗时间** 
 
@@ -115,42 +115,41 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   40.67 % 
-Markdown                 33 mins             █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-Git Config               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Go                       14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-JavaScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Python                   1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   41.67 % 
+Markdown                 33 mins             ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+Git Config               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Go                       14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+JavaScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
 
 🔥 编辑器: 
-Cursor                   2 hrs 8 mins        █████████████████████░░░░   83.61 % 
-Agent                    24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Cursor                   2 hrs 8 mins        █████████████████████░░░░   85.87 % 
+Agent                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 操作系统: 
-Mac                      2 hrs 29 mins       ████████████████████████░   97.46 % 
-Windows                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Mac                      2 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 mins (21.77%)
+⏱ AI Coding Time: 29 mins (19.65%)
 
 ✍️ 0 lines written by AI, 19 lines written by hand (0.0% AI-written)
 
-🔤 21,209 Input Tokens, 21,209 Output Tokens
+🔤 1,426 Input Tokens, 1,426 Output Tokens
 
-💵 $0.38 Estimated AI Cost This Week
+💵 $0.02 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 29 AI Prompts
+🧠 3 AI Sessions, 22 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 2,927 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 261 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -167,7 +166,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 05:39:50 UTC
+ Last Updated on 29/09/2026 05:57:12 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub 统计

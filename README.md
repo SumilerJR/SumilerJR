@@ -115,41 +115,42 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   41.67 % 
-Markdown                 33 mins             ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
-Git Config               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Go                       14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-JavaScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Markdown                 29 mins             ████████░░░░░░░░░░░░░░░░░   31.73 % 
+JavaScript               25 mins             ███████░░░░░░░░░░░░░░░░░░   27.46 % 
+Python                   15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Go                       14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Batchfile                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 
 🔥 编辑器: 
-Cursor                   2 hrs 8 mins        █████████████████████░░░░   85.87 % 
-Agent                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Cursor                   1 hr 9 mins         ██████████████████░░░░░░░   73.88 % 
+Agent                    18 mins             █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Trae                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 💻 操作系统: 
-Mac                      2 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 mins (19.65%)
+⏱ AI Coding Time: 28 mins (30.82%)
 
-✍️ 0 lines written by AI, 19 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 17 lines written by hand (0.0% AI-written)
 
-🔤 1,426 Input Tokens, 1,426 Output Tokens
+🔤 12,774 Input Tokens, 12,774 Output Tokens
 
-💵 $0.02 Estimated AI Cost This Week
+💵 $0.23 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 22 AI Prompts
+🧠 3 AI Sessions, 17 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 261 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📚 Verbose Prompter — average 3,007 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -166,7 +167,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 05:57:12 UTC
+ Last Updated on 30/09/2026 05:48:00 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub 统计

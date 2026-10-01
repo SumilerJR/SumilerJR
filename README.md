@@ -103,9 +103,9 @@
 ## 本周编码统计（WakaTime）
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C030%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C030%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-713%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-713%20hrs%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-3.53%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
@@ -115,42 +115,39 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 29 mins             ████████░░░░░░░░░░░░░░░░░   31.73 % 
-JavaScript               25 mins             ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-Python                   15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Go                       14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Batchfile                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+JavaScript               13 mins             ██████████████░░░░░░░░░░░   56.24 % 
+Markdown                 5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
+Batchfile                4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 编辑器: 
-Cursor                   1 hr 9 mins         ██████████████████░░░░░░░   73.88 % 
-Agent                    18 mins             █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-Trae                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Cursor                   19 mins             ████████████████████░░░░░   79.55 % 
+Trae                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 💻 操作系统: 
-Mac                      1 hr 34 mins        █████████████████████████   100.00 % 
+Mac                      24 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 mins (30.82%)
+⏱ AI Coding Time: 6 mins (25.24%)
 
-✍️ 0 lines written by AI, 17 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 12,774 Input Tokens, 12,774 Output Tokens
+🔤 11,631 Input Tokens, 11,631 Output Tokens
 
-💵 $0.23 Estimated AI Cost This Week
+💵 $0.21 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 17 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 3,007 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 46,524 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -167,7 +164,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 05:48:00 UTC
+ Last Updated on 01/10/2026 06:15:22 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub 统计

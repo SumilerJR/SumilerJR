@@ -115,24 +115,26 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-JavaScript               13 mins             ██████████████░░░░░░░░░░░   56.24 % 
-Markdown                 5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-Batchfile                4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+JavaScript               13 mins             ██████████████░░░░░░░░░░░   54.25 % 
+Markdown                 5 mins              ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+Batchfile                4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 编辑器: 
-Cursor                   19 mins             ████████████████████░░░░░   79.55 % 
-Trae                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Cursor                   20 mins             ████████████████████░░░░░   80.35 % 
+Trae                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 💻 操作系统: 
-Mac                      24 mins             █████████████████████████   100.00 % 
+Mac                      24 mins             ████████████████████████░   96.12 % 
+Windows                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (25.24%)
+⏱ AI Coding Time: 6 mins (24.26%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -164,7 +166,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 06:15:22 UTC
+ Last Updated on 02/10/2026 05:58:03 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub 统计

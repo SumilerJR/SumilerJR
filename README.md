@@ -103,7 +103,7 @@
 ## 本周编码统计（WakaTime）
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C030%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C030%20hrs%2051%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-713%20hrs%2010%20mins-blue?style=flat)
 
@@ -115,28 +115,28 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-JavaScript               13 mins             ██████████████░░░░░░░░░░░   54.25 % 
-Markdown                 5 mins              ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
-Batchfile                4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+PowerShell               1 hr 29 mins        ████████████░░░░░░░░░░░░░   46.31 % 
+JavaScript               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Markdown                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+YAML                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 
 🔥 编辑器: 
-Cursor                   20 mins             ████████████████████░░░░░   80.35 % 
-Trae                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Cursor                   3 hrs 8 mins        ████████████████████████░   97.44 % 
+Trae                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 操作系统: 
-Mac                      24 mins             ████████████████████████░   96.12 % 
-Windows                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Windows                  2 hrs 49 mins       ██████████████████████░░░   87.49 % 
+Mac                      24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (24.26%)
+⏱ AI Coding Time: 6 mins (3.16%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 0 lines written by AI, 372 lines written by hand (0.0% AI-written)
 
 🔤 11,631 Input Tokens, 11,631 Output Tokens
 
@@ -147,7 +147,7 @@ Windows                  0 secs              █░░░░░░░░░░�
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📚 Verbose Prompter — average 46,524 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
@@ -166,7 +166,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 05:58:03 UTC
+ Last Updated on 03/10/2026 05:32:33 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub 统计

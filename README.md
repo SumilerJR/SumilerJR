@@ -115,42 +115,23 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-PowerShell               1 hr 29 mins        ████████████░░░░░░░░░░░░░   46.31 % 
-JavaScript               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Markdown                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-YAML                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+PowerShell               1 hr 29 mins        █████████████░░░░░░░░░░░░   52.94 % 
+YAML                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Markdown                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+JavaScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
 
 🔥 编辑器: 
-Cursor                   3 hrs 8 mins        ████████████████████████░   97.44 % 
-Trae                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Cursor                   2 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  2 hrs 49 mins       ██████████████████████░░░   87.49 % 
-Mac                      24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Windows                  2 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (3.16%)
-
-✍️ 0 lines written by AI, 372 lines written by hand (0.0% AI-written)
-
-🔤 11,631 Input Tokens, 11,631 Output Tokens
-
-💵 $0.21 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 46,524 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **我最常使用 Vue** 
@@ -166,7 +147,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 06:38:38 UTC
+ Last Updated on 07/10/2026 06:15:46 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub 统计

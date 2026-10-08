@@ -115,23 +115,40 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-PowerShell               1 hr 29 mins        █████████████░░░░░░░░░░░░   52.94 % 
-YAML                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Markdown                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-JavaScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+PowerShell               1 hr 29 mins        █████████████░░░░░░░░░░░░   52.08 % 
+YAML                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Markdown                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+JavaScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 
 🔥 编辑器: 
-Cursor                   2 hrs 49 mins       █████████████████████████   100.00 % 
+Cursor                   2 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  2 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 49 mins       █████████████████████████   98.38 % 
+Mac                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 mins (1.62%)
+
+✍️ 0 lines written by AI, 372 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.21 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 34 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **我最常使用 Vue** 
@@ -147,7 +164,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 06:15:46 UTC
+ Last Updated on 08/10/2026 06:24:38 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub 统计

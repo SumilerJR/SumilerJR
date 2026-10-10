@@ -103,9 +103,9 @@
 ## 本周编码统计（WakaTime）
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C033%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C034%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-713%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-714%20hrs%2049%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-3.53%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
@@ -115,45 +115,46 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-PowerShell               1 hr 29 mins        ████████░░░░░░░░░░░░░░░░░   33.11 % 
-Markdown                 46 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Bash                     39 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Other                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-YAML                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Markdown                 3 hrs 26 mins       ███████████░░░░░░░░░░░░░░   42.33 % 
+Bash                     1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+TypeScript               1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+Go                       11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 🔥 编辑器: 
-Cursor                   3 hrs 16 mins       ██████████████████░░░░░░░   72.43 % 
-VS Code                  1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-Trae                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+VS Code                  3 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   41.67 % 
+Codex Vscode             2 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.49 % 
+Trae                     1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+Cursor                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 
 💻 操作系统: 
-Windows                  2 hrs 48 mins       ████████████████░░░░░░░░░   62.18 % 
-Mac                      1 hr 42 mins        █████████░░░░░░░░░░░░░░░░   37.82 % 
+Mac                      8 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 38 mins (36.51%)
+⏱ AI Coding Time: 5 hrs 3 mins (62.03%)
 
-✍️ 234 lines written by AI, 372 lines written by hand (38.61% AI-written)
+✍️ 568 lines written by AI, 23 lines written by hand (96.11% AI-written)
 
-🔤 254,026 Input Tokens, 134,288 Output Tokens
+🔤 1,470,406 Input Tokens, 538,281 Output Tokens
 
-💵 $45.16 Estimated AI Cost This Week
+💵 $263.91 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 33 AI Prompts
+🧠 17 AI Sessions, 88 AI Prompts
 
-Grok                     181 lines           ██████████████████░░░░░░░   73.88 % 
-Codex-Vscode             52 lines            █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
-Opencode-Cli             12 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Codex-Vscode             396 lines           █████████████████░░░░░░░░   67.23 % 
+Grok                     181 lines           ████████░░░░░░░░░░░░░░░░░   30.73 % 
+Opencode-Cli             12 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 38.61% of written lines came from AI
-📄 Detailed Prompter — average 659 characters per prompt
+🤖 AI-Driven — 96.11% of written lines came from AI
+📄 Detailed Prompter — average 1,290 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 66.07% of changed lines were hand-edited
+🚀 High AI Trust — 10.62% of changed lines were hand-edited
 ```
 
 **我最常使用 Vue** 
@@ -169,7 +170,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 06:26:16 UTC
+ Last Updated on 10/10/2026 06:08:00 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub 统计

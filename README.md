@@ -103,9 +103,9 @@
 ## 本周编码统计（WakaTime）
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C060%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C064%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-741%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-744%20hrs%204%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-3.53%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
@@ -115,48 +115,47 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 8 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   27.87 % 
-Other                    7 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
-Go                       3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-TypeScript               3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Python                   2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Markdown                 7 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+Other                    6 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.31 % 
+TypeScript               3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Python                   2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+JSON                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 
 🔥 编辑器: 
-Codex Vscode             18 hrs 6 mins       ███████████████░░░░░░░░░░   58.90 % 
-VS Code                  7 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
-Claude Code              4 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Opencode Cli             25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Codex Vscode             13 hrs 30 mins      ██████████████░░░░░░░░░░░   54.73 % 
+VS Code                  6 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+Claude Code              4 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+Opencode Cli             25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 操作系统: 
-Mac                      30 hrs 45 mins      █████████████████████████   99.99 % 
+Mac                      24 hrs 40 mins      █████████████████████████   99.99 % 
 Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 51 mins (84.06%)
+⏱ AI Coding Time: 20 hrs 53 mins (84.63%)
 
-✍️ 5,945 lines written by AI, 413 lines written by hand (93.5% AI-written)
+✍️ 5,945 lines written by AI, 399 lines written by hand (93.71% AI-written)
 
-🔤 23,728,430 Input Tokens, 5,542,509 Output Tokens
+🔤 21,957,384 Input Tokens, 4,876,704 Output Tokens
 
-💵 $1781.61 Estimated AI Cost This Week
+💵 $1281.14 Estimated AI Cost This Week
 
-🧠 86 AI Sessions, 302 AI Prompts
+🧠 79 AI Sessions, 254 AI Prompts
 
 GPT                      3,800 lines         ████████████████░░░░░░░░░   63.11 % 
 Claude-Code              1,178 lines         █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
 DeepSeek                 1,043 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.5% of written lines came from AI
-📄 Detailed Prompter — average 968 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 6.8% of changed lines were hand-edited
+🤖 AI-Driven — 93.71% of written lines came from AI
+📄 Detailed Prompter — average 832 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 6.52% of changed lines were hand-edited
 ```
 
 **我最常使用 Vue** 
@@ -172,7 +171,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 04:46:24 UTC
+ Last Updated on 18/10/2026 04:52:31 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub 统计

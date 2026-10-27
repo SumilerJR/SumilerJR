@@ -103,7 +103,7 @@
 ## 本周编码统计（WakaTime）
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C092%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C095%20hrs%2037%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-771%20hrs%2053%20mins-blue?style=flat)
 
@@ -115,44 +115,44 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Swift                    11 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   32.72 % 
-Markdown                 8 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-Other                    4 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-TypeScript               3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Go                       2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Swift                    12 hrs 41 mins      █████████░░░░░░░░░░░░░░░░   35.93 % 
+Other                    6 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Markdown                 5 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+TypeScript               4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Go                       2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
 
 🔥 编辑器: 
-VS Code                  19 hrs 18 mins      ██████████████░░░░░░░░░░░   55.23 % 
-Claude Code              9 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.25 % 
-Codex Vscode             6 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+VS Code                  20 hrs 18 mins      ██████████████░░░░░░░░░░░   57.51 % 
+Codex Vscode             9 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   27.39 % 
+Claude Code              5 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
 
 💻 操作系统: 
-Mac                      34 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      35 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 23 mins (78.37%)
+⏱ AI Coding Time: 28 hrs 11 mins (79.85%)
 
-✍️ 6,341 lines written by AI, 5,760 lines written by hand (52.4% AI-written)
+✍️ 11,443 lines written by AI, 5,880 lines written by hand (66.06% AI-written)
 
-🔤 17,202,536 Input Tokens, 2,351,227 Output Tokens
+🔤 19,632,879 Input Tokens, 2,411,727 Output Tokens
 
-💵 $1564.74 Estimated AI Cost This Week
+💵 $1485.28 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 348 AI Prompts
+🧠 45 AI Sessions, 298 AI Prompts
 
-GPT                      3,708 lines         ██████████████░░░░░░░░░░░   54.19 % 
-DeepSeek                 1,779 lines         ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
-Vscode                   852 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Claude-Code              503 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+GPT                      9,408 lines         ████████████████████░░░░░   78.71 % 
+DeepSeek                 1,190 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Vscode                   852 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Claude-Code              503 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 52.4% of written lines came from AI
-📄 Detailed Prompter — average 560 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 48.79% of changed lines were hand-edited
+🤖 AI-Driven — 66.06% of written lines came from AI
+📄 Detailed Prompter — average 591 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 35.78% of changed lines were hand-edited
 ```
 
 **我最常使用 Vue** 
@@ -168,7 +168,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 05:06:05 UTC
+ Last Updated on 27/10/2026 05:21:50 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub 统计

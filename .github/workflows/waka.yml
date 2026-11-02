@@ -19,6 +19,10 @@ jobs:
           # 注意：这里必须使用个人访问令牌（PAT），并保存为仓库机密 GH_TOKEN。
           # 建议使用 classic token，最少包含 repo 和 user 权限。
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # WakaTime 自 2026-11-01 起只允许插件用 API Key 上报数据，
+          # 读取统计必须改用个人 OAuth Token（https://wakatime.com/oauth）。
+          # 该 Token 可直接放在 ?api_key= 参数中，因此无需修改 action，
+          # 只需把仓库机密 WAKATIME_API_KEY 的值换成个人 OAuth Token。
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           LOCALE: "zh"
           COMMIT_MESSAGE: "coding"

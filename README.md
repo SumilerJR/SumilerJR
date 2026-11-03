@@ -103,53 +103,7 @@
 ## 本周编码统计（WakaTime）
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C130%20hrs%2051%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-813%20hrs%2021%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-3.53%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
-
-📊 **本周消耗时间** 
-
-```text
-🕑︎ 时区: Asia/Shanghai
-
-💬 编程语言: 
-Swift                    12 hrs 57 mins      ████████░░░░░░░░░░░░░░░░░   31.67 % 
-Markdown                 10 hrs 59 mins      ███████░░░░░░░░░░░░░░░░░░   26.84 % 
-Other                    7 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-TypeScript               3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Python                   1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-
-🔥 编辑器: 
-VS Code                  30 hrs 58 mins      ███████████████████░░░░░░   75.69 % 
-Codex Vscode             9 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
-
-💻 操作系统: 
-Mac                      40 hrs 54 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 39 hrs 23 mins (96.29%)
-
-✍️ 22,052 lines written by AI, 356 lines written by hand (98.41% AI-written)
-
-🔤 48,232,724 Input Tokens, 5,721,743 Output Tokens
-
-💵 $1487.30 Estimated AI Cost This Week
-
-🧠 97 AI Sessions, 245 AI Prompts
-
-GPT                      22,441 lines        █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.41% of written lines came from AI
-📄 Detailed Prompter — average 793 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.73% of changed lines were hand-edited
-```
 
 **我最常使用 Vue** 
 
@@ -164,7 +118,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2026 10:09:41 UTC
+ Last Updated on 03/11/2026 07:04:25 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub 统计

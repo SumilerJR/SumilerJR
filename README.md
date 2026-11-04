@@ -103,7 +103,60 @@
 ## 本周编码统计（WakaTime）
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C144%20hrs%206%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-831%20hrs%2048%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-3.53%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+
+📊 **本周消耗时间** 
+
+```text
+🕑︎ 时区: Asia/Shanghai
+
+💬 编程语言: 
+Swift                    13 hrs 48 mins      ████████░░░░░░░░░░░░░░░░░   32.87 % 
+Markdown                 11 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+Other                    9 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+Python                   2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+JSON                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+
+🔥 编辑器: 
+VS Code                  30 hrs 10 mins      ██████████████████░░░░░░░   71.82 % 
+Opencode Cli             4 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Codex Vscode             4 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+OpenCode                 3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+💻 操作系统: 
+Mac                      42 hrs 1 min        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 41 hrs 13 mins (98.09%)
+
+✍️ 13,619 lines written by AI, 336 lines written by hand (97.59% AI-written)
+
+🔤 44,310,029 Input Tokens, 5,305,552 Output Tokens
+
+💵 $2390.78 Estimated AI Cost This Week
+
+🧠 108 AI Sessions, 396 AI Prompts
+
+GPT                      9,261 lines         ████████████████░░░░░░░░░   65.23 % 
+DeepSeek                 2,819 lines         █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+K                        1,249 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Vscode                   600 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Opencode-Cli             269 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.59% of written lines came from AI
+📄 Detailed Prompter — average 638 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 2.39% of changed lines were hand-edited
+```
 
 **我最常使用 Vue** 
 
@@ -118,7 +171,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2026 07:04:25 UTC
+ Last Updated on 04/11/2026 06:48:35 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub 统计

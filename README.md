@@ -105,7 +105,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C159%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-849%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-849%20hrs%2045%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-3.54%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
@@ -115,47 +115,47 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Swift                    16 hrs 17 mins      ██████████░░░░░░░░░░░░░░░   40.96 % 
-Markdown                 8 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-Other                    8 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-JSON                     2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-Python                   2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Swift                    17 hrs 13 mins      █████████░░░░░░░░░░░░░░░░   37.12 % 
+Other                    11 hrs 45 mins      ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
+Markdown                 10 hrs 2 mins       █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+JSON                     2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Python                   1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 🔥 编辑器: 
-VS Code                  15 hrs 24 mins      ██████████░░░░░░░░░░░░░░░   38.74 % 
-Opencode Cli             11 hrs 13 mins      ███████░░░░░░░░░░░░░░░░░░   28.23 % 
-OpenCode                 9 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-Codex Vscode             3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+VS Code                  21 hrs 17 mins      ███████████░░░░░░░░░░░░░░   45.93 % 
+Opencode Cli             12 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+OpenCode                 10 hrs              █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+Codex Vscode             2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 操作系统: 
-Mac                      39 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      46 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 hrs 44 mins (99.91%)
+⏱ AI Coding Time: 46 hrs 10 mins (99.57%)
 
-✍️ 19,695 lines written by AI, 113 lines written by hand (99.43% AI-written)
+✍️ 19,508 lines written by AI, 113 lines written by hand (99.42% AI-written)
 
-🔤 34,542,268 Input Tokens, 6,743,676 Output Tokens
+🔤 38,373,599 Input Tokens, 7,463,780 Output Tokens
 
-💵 $4169.42 Estimated AI Cost This Week
+💵 $4188.83 Estimated AI Cost This Week
 
-🧠 152 AI Sessions, 628 AI Prompts
+🧠 182 AI Sessions, 746 AI Prompts
 
-DeepSeek                 13,752 lines        █████████████████░░░░░░░░   67.22 % 
-K                        2,401 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Vscode                   2,209 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-GPT                      1,825 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Opencode-Cli             271 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+DeepSeek                 13,752 lines        █████████████████░░░░░░░░   67.84 % 
+K                        2,401 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Vscode                   2,209 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+GPT                      1,638 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Opencode-Cli             271 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.43% of written lines came from AI
-📄 Detailed Prompter — average 538 characters per prompt
+🤖 AI-Driven — 99.42% of written lines came from AI
+📄 Detailed Prompter — average 574 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.55% of changed lines were hand-edited
+🚀 High AI Trust — 0.56% of changed lines were hand-edited
 ```
 
 **我最常使用 Vue** 
@@ -171,7 +171,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2026 06:26:06 UTC
+ Last Updated on 09/11/2026 06:59:19 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub 统计
